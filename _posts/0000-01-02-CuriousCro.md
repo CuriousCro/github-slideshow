@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+*I can't wait to be vaccinated.*
 Use the left arrow to go back!
